@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Edmanly</string>
+  <string name="facebook_app_id">301803609438766</string>
+  <string name="fb_login_protocol_scheme">fb8dec4a4889cc9ba7ffae7ca24de9b5eb</string>
+  <string name="facebook_client_token">YOUR_CLIENT_ACCESS_TOKEN</string>
+</resources>

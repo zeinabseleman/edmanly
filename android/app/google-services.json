@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818224539479",
+    "project_id": "edmanly-c426c",
+    "storage_bucket": "edmanly-c426c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818224539479:android:fde2b80e442d71bb1bc012",
+        "android_client_info": {
+          "package_name": "com.example.edmanly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDboVty5Cij9DXb0RENgfCZXAYcbYycDFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
